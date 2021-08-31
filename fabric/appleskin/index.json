@@ -1,0 +1,13 @@
+{ 
+    "id" : "appleskin", 
+    "name" : "AppleSkin", 
+    "type" : "HUD", 
+    "page" : {
+        "curseforge" : "https://www.curseforge.com/minecraft/mc-mods/appleskin"
+    }, 
+    "versions" : {
+        "2.0.0" : {
+            "url" : "https://media.forgecdn.net/files/3358/16/appleskin-fabric-mc1.17-2.0.0.jar"
+        }
+    }
+}
